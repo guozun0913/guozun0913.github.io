@@ -8,7 +8,7 @@ url:
 page_no_title: "roar's blog" # 文章无标题时默认显示内容
 beian: # "备案号"
 author: roar
-email: guozunzzz@163.com
+email: guozunzzzz@163.com
 
 # Build settings
 permalink: /:year/:month/:day/:title/
@@ -57,9 +57,6 @@ menu:
 
 # Link settings
 links: # 友情链接
-
-  - title: ccslience's blog
-    url: http://ccslience.oukohou.wang/
   - title: oukohou's github
     url: https://github.com/oukohou
 #  - title:
@@ -76,13 +73,13 @@ links: # 友情链接
 # Code hub settings
 codehub: # 代码仓库
   - title: Github
-    url: https://github.com/oukohou
+    url: https://github.com/guozun0913
 
 
 valine:
   enable: true
-  app_id:  K1rbn2Oo0YMM04VuzdLS7Nzz-gzGzoHsz
-  app_key: AAsHbwVm8ofKFJ6ghGqqrXSU
+  app_id:  
+  app_key: 
   notify: false # mail notifier , https://github.com/xCss/Valine/wiki
   verify: false # Verification code
   visitor: true
