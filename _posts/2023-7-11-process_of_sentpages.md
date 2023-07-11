@@ -16,11 +16,11 @@ tags: [installation, blog, setting up]
 1.打开git，在git命令窗口分别输入以下命令：  <br>
     首先填写本地信息  <br>
     $ git config --global user. name "github用户名"  <br>
-    $ git config --global user. email "github邮箱"   <br>
-    生产ssh密码   <br>
+    $ git config --global user. email "github邮箱" <br>
+    生成ssh密码   <br>
     $ ssh-keygen -t rsa -C "githu邮箱"   <br>
     然后分别打开：此电脑 —— 用户 —— .ssh   <br>
-    右键使用vscode打开.ssh文件里的id_rsa_pub文件,复制里面的密钥。  <br>
+    右键使用vscode打开.ssh文件里的id_rsa_pub文件,复制里面的密钥。  <br><br>
 2.回到github界面  <br>
     点击右上角自己账号 —— settings —— SSH and GPG keys —— new SSH key   <br>
     title：备注  <br>
