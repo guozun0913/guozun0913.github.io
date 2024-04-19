@@ -50,6 +50,5 @@ tags: [installation, blog, setting up]
 
 
 
-regards.
-<h4 align = "right">guozun.</h4>
+
 

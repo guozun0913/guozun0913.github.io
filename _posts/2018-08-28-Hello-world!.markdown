@@ -9,9 +9,8 @@ hello world!
 {% highlight python %}
 def print_hi(name):
    print("Hi, " + name)
-print_hi("I'm oukohou")
+print_hi("I'm roar.")
 {% endhighlight %}
 
-regards.
-<h4 align = "right">guozun</h4>
+
 
