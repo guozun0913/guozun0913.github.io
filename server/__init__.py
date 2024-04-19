@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*-
 
 # *************************************************************
-#  Copyright (c) Huoty - All rights reserved
+#  Copyright (c) - All rights reserved
 # 
-#      Author: Huoty <sudohuoty@gmail.com>
+#      Author:  <guozunzzzz@gmail.com>
 #  CreateTime: 2016-12-04 09:56:36
 # *************************************************************
 
