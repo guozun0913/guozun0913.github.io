@@ -1,8 +1,8 @@
 # Site settings
 title: 郭尊的博客
-subtitle: [班荆道故]
+subtitle: [一期一会]
 keywords: roar
-description: 班荆道故,幸会。
+description: 百年大小枯荣事，过眼浑如一梦中。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: 
 page_no_title: "roar's blog" # 文章无标题时默认显示内容
