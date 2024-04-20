@@ -3,12 +3,12 @@ layout: post
 title:  "使用git上传博客"
 date:   2023-7-11 20:51:30 +0800--
 categories: [部署]
-tags: [installation, blog, setting up]  
+tags: [YOLOv5]  
 ---
 
 
 ## 使用git链接github给本地建仓库
-
+v5
 首先下载安装git方法百度。  
 
 新建作为仓库的文件夹，右键git bash here。  
@@ -46,6 +46,7 @@ tags: [installation, blog, setting up]
     $ git push   //推送   
 
  
+
  
 
 
