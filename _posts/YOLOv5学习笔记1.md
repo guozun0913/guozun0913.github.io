@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "yolo学习笔记"
+tags:   yolo
+date:   2024-04-20 11:12:35 +0800
+categories: [日志] 
+---
+
 #### 1. YOLO目标检测基本思想
 
 ![](https://img2.imgtp.com/2024/04/20/ziWTrvEE.png)
