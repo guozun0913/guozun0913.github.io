@@ -3,7 +3,7 @@ layout: post
 title:  "使用git上传博客"
 date:   2023-7-11 20:51:30 +0800--
 categories: [部署]
-tags: [YOLOv5]  
+tags: [github,Blog]  
 ---
 
 
@@ -47,7 +47,7 @@ v5
 
  
 
- 
+
 
 
 
