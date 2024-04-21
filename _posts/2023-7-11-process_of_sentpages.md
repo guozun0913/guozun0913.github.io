@@ -8,7 +8,6 @@ tags: [github,Blog]
 
 
 ## 使用git链接github给本地建仓库
-v5
 首先下载安装git方法百度。  
 
 新建作为仓库的文件夹，右键git bash here。  
